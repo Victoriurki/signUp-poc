@@ -1,2 +1,3 @@
-# signUp-poc
-poc para avaliar a implementação de login social e biometrias
+# signup_poc
+
+A new Flutter project.
